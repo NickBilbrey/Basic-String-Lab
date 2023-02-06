@@ -1,0 +1,15 @@
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\bin\Debug\net6.0\basicString.exe
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\bin\Debug\net6.0\basicString.deps.json
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\bin\Debug\net6.0\basicString.runtimeconfig.json
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\bin\Debug\net6.0\basicString.dll
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\bin\Debug\net6.0\basicString.pdb
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.dll
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\refint\basicString.dll
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.pdb
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\basicString.genruntimeconfig.cache
+C:\Users\Nicholas\source\repos\Grand circus\basicStringLab\basicString\obj\Debug\net6.0\ref\basicString.dll
